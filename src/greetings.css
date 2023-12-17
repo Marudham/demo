@@ -5,3 +5,9 @@
 body{
     background-color: grey;
 }
+#greetings{
+    height: 50vh;
+    text-align: center;
+    padding: 15%;
+}
+
